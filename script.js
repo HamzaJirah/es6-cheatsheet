@@ -70,3 +70,13 @@ studentName();
 console.log(studentOne);*/
 
 //Hoisting with 'const' in a function
+function studentName(){
+  //initialize variable
+  studentOne = 'Omo Naija';
+}
+//declare variable
+const studentOne;
+//call function
+studentName();
+//log to console
+console.log(studentOne);
