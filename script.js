@@ -3,7 +3,7 @@
 //'var' keyword
 var age = 23;
 age = 28;
-console.log(age); //28
+//console.log(age); //28
 
 //'const' keyword
 const age1 = 30;
@@ -20,7 +20,7 @@ person.age = 23;
 //Note: with objects and arrays, you can declare an object/array an add properties/elements to it.
 
 //Hoisting with 'var', const' and 'let'
-location = 'lmn';
+location = 78;
 console.log(location);
 var location;
 
