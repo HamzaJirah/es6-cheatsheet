@@ -46,7 +46,7 @@
 
 //Hoisting with 'let' in a function
 
-function studentName(){
+/*function studentName(){
   //initialize variable
   studentOne = 'Omo Naija';
 }
@@ -55,4 +55,4 @@ let studentOne;
 //call function
 studentName();
 //log to console
-console.log(studentOne);
+console.log(studentOne);*/
