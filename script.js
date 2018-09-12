@@ -56,3 +56,15 @@ let studentOne;
 studentName();
 //log to console
 console.log(studentOne);*/
+
+//Hoisting with 'var' in a function
+/*function studentName(){
+  //initialize variable
+  studentOne = 'Omo Naija';
+}
+//declare variable
+var studentOne;
+//call function
+studentName();
+//log to console
+console.log(studentOne);*/
