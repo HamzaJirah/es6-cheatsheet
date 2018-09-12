@@ -28,12 +28,12 @@
 
 //const
 // addressOne = 'nigeria';
-// console.log(addressOne); //SyntaxError: Missing initializer in const declaration
+// console.log(addressOne); //Uncaught SyntaxError: Missing initializer in const declaration
 // const addressOne;
 
 //let
 addressOne = 'nigeria';
-console.log(addressOne); //SyntaxError: Missing initializer in const declaration
+console.log(addressOne); //Uncaught ReferenceError: addressOne is not defined
 let addressOne;
 
 
