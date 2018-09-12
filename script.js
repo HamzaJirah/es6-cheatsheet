@@ -44,4 +44,5 @@
 // addressOne = 'nigeria';
 // console.log(addressOne);
 
+//Hoisting with 'let' in a function
 
