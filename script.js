@@ -52,5 +52,7 @@ function studentName(){
 }
 //declare variable
 let studentOne;
+//call function
 studentName();
+//log to console
 console.log(studentOne);
