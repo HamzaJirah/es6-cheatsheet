@@ -19,5 +19,5 @@ person.age = 23;
 // console.log(person);
 //Note: with objects and arrays, you can declare an object/array an add properties/elements to it.
 
-//Hoisting with 'const' and 'let'
+//Hoisting with 'var', const' and 'let'
 
