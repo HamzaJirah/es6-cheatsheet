@@ -31,13 +31,17 @@
 // console.log(addressOne); //Uncaught SyntaxError: Missing initializer in const declaration
 // const addressOne;
 
+const addressOne;
+addressOne = 'nigeria';
+console.log(addressOne);
+
 //let
 // addressOne = 'nigeria';
 // console.log(addressOne); //Uncaught ReferenceError: addressOne is not defined
 // let addressOne;
 
-let addressOne;
-addressOne = 'nigeria';
-console.log(addressOne);
+// let addressOne;
+// addressOne = 'nigeria';
+// console.log(addressOne);
 
 
