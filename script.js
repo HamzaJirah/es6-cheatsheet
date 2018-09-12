@@ -11,3 +11,5 @@ age1 = 32;
 console.log(age1); //Uncaught TypeError: Assignment to constant variable.
 //Note: with const, you can't reassigned the value of a variable
 
+//using const in obect naming
+
