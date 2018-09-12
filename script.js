@@ -32,8 +32,10 @@
 // const addressOne;
 
 //let
-addressOne = 'nigeria';
-console.log(addressOne); //Uncaught ReferenceError: addressOne is not defined
+// addressOne = 'nigeria';
+// console.log(addressOne); //Uncaught ReferenceError: addressOne is not defined
+// let addressOne;
+
 let addressOne;
 
 
