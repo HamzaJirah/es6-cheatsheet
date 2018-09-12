@@ -16,3 +16,5 @@ const person = {
   name: 'abc',
 }
 
+person.age = 23;
+
