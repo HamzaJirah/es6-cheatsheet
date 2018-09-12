@@ -1,4 +1,4 @@
-//variables
+//VARIABLES
 
 var age = 23;
 
