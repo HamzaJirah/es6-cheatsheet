@@ -20,8 +20,16 @@
 //Note: with objects and arrays, you can declare an object/array an add properties/elements to it.
 
 //Hoisting with 'var', const' and 'let'
+
+//var
+// addressOne = 'nigeria';
+// console.log(addressOne); //nigeria
+// var addressOne;
+
+//const
 addressOne = 'nigeria';
 console.log(addressOne); //nigeria
-var addressOne;
+const addressOne;
+
 
 
