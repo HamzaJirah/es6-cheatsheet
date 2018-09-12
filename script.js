@@ -15,7 +15,7 @@ const age1 = 30;
 const person = {
   name: 'abc',
 }
-
 person.age = 23;
 console.log(person);
+//Note: with objects and arrays, you can declare an object/array an add properties/elements to it.
 
