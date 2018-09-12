@@ -38,5 +38,6 @@
 
 let addressOne;
 addressOne = 'nigeria';
+console.log(addressOne);
 
 
