@@ -21,7 +21,7 @@
 
 //Hoisting with 'var', const' and 'let'
 addressOne = 'nigeria';
-console.log(addressOne);
+console.log(addressOne); //nigeria
 var addressOne;
 
 
