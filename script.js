@@ -20,4 +20,7 @@ person.age = 23;
 //Note: with objects and arrays, you can declare an object/array an add properties/elements to it.
 
 //Hoisting with 'var', const' and 'let'
+location = 'lmn';
+console.log(location);
+var location;
 
