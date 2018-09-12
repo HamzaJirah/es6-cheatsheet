@@ -48,9 +48,9 @@
 
 function studentName(){
   //initialize variable
-  name = 'Omo Naija';
+  studentOne = 'Omo Naija';
 }
 //declare variable
-let name;
+let studentOne;
 studentName();
-
+console.log(studentOne);
