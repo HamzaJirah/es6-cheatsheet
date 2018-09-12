@@ -6,4 +6,4 @@ age = 28;
 console.log(age);
 
 //'const' keyword
-
+const age1 = 30;
