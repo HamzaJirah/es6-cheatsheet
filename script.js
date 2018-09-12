@@ -52,5 +52,5 @@ function studentName(){
 }
 //declare variable
 let name;
-
+studentName();
 
