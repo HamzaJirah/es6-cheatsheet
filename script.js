@@ -68,3 +68,5 @@ var studentOne;
 studentName();
 //log to console
 console.log(studentOne);*/
+
+//Hoisting with 'const' in a function
