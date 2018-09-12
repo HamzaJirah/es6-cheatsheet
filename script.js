@@ -7,3 +7,4 @@ console.log(age);
 
 //'const' keyword
 const age1 = 30;
+age = 32;
