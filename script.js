@@ -20,7 +20,8 @@
 //Note: with objects and arrays, you can declare an object/array an add properties/elements to it.
 
 //Hoisting with 'var', const' and 'let'
-location = 78;
-console.log(location);
-var location;
+addressOne = 'gvsdvbjhsdjbv';
+console.log(addressOne);
+var addressOne;
+
 
