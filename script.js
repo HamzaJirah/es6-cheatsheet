@@ -46,3 +46,11 @@
 
 //Hoisting with 'let' in a function
 
+function studentName(){
+  //initialize variable
+  name = 'Omo Naija';
+}
+//declare variable
+let name;
+
+
