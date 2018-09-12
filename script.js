@@ -32,6 +32,8 @@
 // const addressOne;
 
 //let
-
+addressOne = 'nigeria';
+console.log(addressOne); //SyntaxError: Missing initializer in const declaration
+let addressOne;
 
 
