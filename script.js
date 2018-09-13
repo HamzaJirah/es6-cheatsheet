@@ -85,3 +85,4 @@ console.log(studentOne);*/ //Uncaught SyntaxError: Missing initializer in const 
 
 const fncName = a => a - 6;
 
+console.log(fncName(8));
