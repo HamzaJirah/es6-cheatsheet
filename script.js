@@ -70,7 +70,7 @@ studentName();
 console.log(studentOne);*/
 
 //Hoisting with 'const' in a function
-function studentName(){
+/*function studentName(){
   //initialize variable
   studentOne = 'Omo Naija';
 }
@@ -79,4 +79,4 @@ const studentOne;
 //call function
 studentName();
 //log to console
-console.log(studentOne); //Uncaught SyntaxError: Missing initializer in const declaration
+console.log(studentOne);*/ //Uncaught SyntaxError: Missing initializer in const declaration
