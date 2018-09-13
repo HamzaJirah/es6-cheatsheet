@@ -89,7 +89,7 @@ console.log(studentOne);*/ //Uncaught SyntaxError: Missing initializer in const 
 // const multNums = (x, y) => x * y;
 // console.log(multNums(4, 9));
 
-//Arrow function and this
+//Arrow function and this in the context of the window object
 // const thisOne = () => console.log(this);
 // thisOne(); //prints the window object
 
