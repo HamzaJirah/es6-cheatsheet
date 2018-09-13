@@ -96,4 +96,5 @@ console.log(studentOne);*/ //Uncaught SyntaxError: Missing initializer in const 
 //Arrow function and 'this' in the context of an HTML element 
 const button = document.querySelector('button');
 button.addEventListener('click', buttonFnc);
+const buttonFnc = () => console.log(this);
 
