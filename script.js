@@ -91,4 +91,5 @@ console.log(studentOne);*/ //Uncaught SyntaxError: Missing initializer in const 
 
 //Arrow function and this
 const thisOne = () => console.log(this);
+thisOne();
 
