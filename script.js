@@ -84,3 +84,5 @@ console.log(studentOne);*/ //Uncaught SyntaxError: Missing initializer in const 
 //Arrow function with one parameter
 // const fncName = a => a - 6;
 // console.log(fncName(8));
+
+//Arrow function with two parameters
