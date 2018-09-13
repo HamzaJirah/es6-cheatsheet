@@ -90,6 +90,6 @@ console.log(studentOne);*/ //Uncaught SyntaxError: Missing initializer in const 
 // console.log(multNums(4, 9));
 
 //Arrow function and this
-const thisOne = () => console.log(this);
-thisOne(); //prints the window object
+// const thisOne = () => console.log(this);
+// thisOne(); //prints the window object
 
