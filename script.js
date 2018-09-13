@@ -86,3 +86,4 @@ console.log(studentOne);*/ //Uncaught SyntaxError: Missing initializer in const 
 // console.log(fncName(8));
 
 //Arrow function with two parameters
+const multNums = (x, y) => x * y;
